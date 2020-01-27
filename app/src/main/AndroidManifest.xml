@@ -24,6 +24,7 @@
             android:theme="@style/Base.Theme.AppCompat"/> <!-- optional (needed if default theme
             has no action bar) -->
 
+
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
